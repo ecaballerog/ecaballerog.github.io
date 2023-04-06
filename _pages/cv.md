@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aerospace Engineering, University Carlos III of Madrid, 2018
+* M.S. in Aeronautical Engineering, Univertsity Carlos III of Madrid, 2022
+* Ph.D in Drone Communications, Klagenfurt University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: Systems Engineer
+  * Drone Hopper
+  * Duties included: 
+  * Supervisor: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Systems Engineer
+  * B2Space
+  * Duties included: 
+  * Supervisor:
   
 Skills
 ======
@@ -54,6 +54,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
