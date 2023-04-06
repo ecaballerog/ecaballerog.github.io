@@ -11,7 +11,7 @@ title                    : "Enrique Caballero Academic Website"
 title_separator          : "-"
 name                     : &name "Enrique Caballero"
 description              : &description "Aerospace Engineer. Digging into Telecommunications"
-url                      : https://ecaballerog.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ecaballerog.github.io/enriquecaballero # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enriquecaballero"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,10 +85,10 @@ author:
   bio              : "Research scientist at Klagenfurt University, obtaining expertise in Drone Communications"
   location         : "Klagenfurt, Austria"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Enrique-Caballero-Garces-2"
+  researchgate     :  "https://www.researchgate.net/profile/Enrique-Caballero-Garces-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "enriquecaballero"
+  github           : "ecaballerog"
   google_plus      :
   keybase          :
   instagram        :
