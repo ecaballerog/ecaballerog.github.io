@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Aerospace Engineering, University Carlos III of Madrid, 2018
-* M.S. in Aeronautical Engineering, Univertsity Carlos III of Madrid, 2022
 * Ph.D in Drone Communications, Klagenfurt University, 2025 (expected)
+* M.S. in Aeronautical Engineering, Univertsity Carlos III of Madrid, 2022
+* B.S. in Aerospace Engineering, University Carlos III of Madrid, 2018
 
 Work experience
 ======
-* 2018: Systems Engineer
-  * Drone Hopper
+
+* 2023: Research Engineer
+  * Universitat Klagenfurt
   * Duties included: 
   * Supervisor: 
 
@@ -26,7 +27,13 @@ Work experience
   * B2Space
   * Duties included: 
   * Supervisor:
-  
+
+* 2018: Systems Engineer
+  * Drone Hopper
+  * Duties included: 
+  * Supervisor: 
+
+
 Skills
 ======
 * Skill 1
