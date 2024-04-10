@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "An automated UAV-assisted 2D mapping system for First Responders"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-10-01
+venue: 'Iscram 2021'
+paperurl: 'https://www.researchgate.net/profile/Enrique-Caballero-Garces-2/publication/351852882_Automated_UAV_mapping_for_FRs_An_automated_UAV-assisted_2D_mapping_system_for_First_Responders/links/6368be21431b1f530079be01/Automated-UAV-mapping-for-FRs-An-automated-UAV-assisted-2D-mapping-system-for-First-Responders.pdf'
+citation: 'Caballero, E. (2021). &quot;An automated UAV-assisted 2D mapping system for First Responders.&quot; <i>Iscram 2021</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This work presents an autonomous system for UAV-assisted mapping optimized for FRs, including the generation of routes for the UAVs to follow, data collection, data processing, and map generation.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/profile/Enrique-Caballero-Garces-2/publication/351852882_Automated_UAV_mapping_for_FRs_An_automated_UAV-assisted_2D_mapping_system_for_First_Responders/links/6368be21431b1f530079be01/Automated-UAV-mapping-for-FRs-An-automated-UAV-assisted-2D-mapping-system-for-First-Responders.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Caballero, E. (2021). "An automated UAV-assisted 2D mapping system for First Responders" <i>Iscram 2021</i>. 1(1).
